@@ -1,0 +1,28 @@
+{
+  "title": "数据结构研究",
+  "author": "NonePro",
+  "plugins": [
+    "-lunr",
+    "-search",
+    "search-pro",
+    "back-to-top-button",
+    "chapter-fold",
+    "code",
+    "splitter",
+    "tbfed-pagefooter",
+    "page-treeview",
+    "popup"
+  ],
+  "pluginsConfig": {
+    "tbfed-pagefooter": {
+      "copyright": "NonePro",
+      "modify_label": "该文件修订时间：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    },
+    "page-treeview": {
+      "copyright": "NonePro",
+      "minHeaderCount": "2",
+      "minHeaderDeep": "2"
+    }
+  }
+}
